@@ -9,5 +9,5 @@ public class SpringBootLmsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootLmsApplication.class, args);
 	}
-
+	
 }
